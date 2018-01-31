@@ -10,8 +10,8 @@ The contents of the zip file, once extracted, have an executable, a copy of [Esp
 
 ### Note: the firmware that comes with both releases is NOT the use24 firmware yet, as it is still in development.
 
-[Esptool-ck](https://github.com/igrr/esptool-ck) is a program writen in C to flash firmware to the ESP8266. Don't confuse it with exptool.py, a python program that does pretty much the same thing, but requires python installed in your computer.
-
 Actually this program has an "+Options" window that allows you to flash any firmware into any NodeMcu development board (ESP8266).
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/Screenshot2.png">
+
+[Esptool-ck](https://github.com/igrr/esptool-ck) is a program writen in C to flash firmware to the ESP8266. Don't confuse it with exptool.py, a python program that does pretty much the same thing, but requires python installed in your computer.
