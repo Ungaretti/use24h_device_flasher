@@ -8,7 +8,7 @@ You may choose to download the .zip file and extract it in a folder or download 
 
 The contents of the zip file, once extracted, have an executable, a copy of [Esptool-ck](https://github.com/igrr/esptool-ck) and the firmware binary file. 
 
-<img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/Screenshot.PNG">
+<img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/fileview.PNG">
 
 It executes a little faster since the standalone executable is actually a "wrapped" version of of the contents of the zip file.
 
