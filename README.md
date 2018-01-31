@@ -4,9 +4,9 @@
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/Screenshot.PNG">
 
-You may choose to download the .zip file and extract it in a folder or download the standalone executable. 
+You may choose to download the .zip file and extract it in a folder or download the standalone executable. Both are at the "Releases" page of this Github project.
 
-The contents of the zip file, once extracted, have an executable, a copy of [Esptool-ck](https://github.com/igrr/esptool-ck) and the firmware binary file. It executes a little faster since the standalone executable is actually a "wrapped" version of of the contents of the zip file and has to be decompressed at each execution.
+The contents of the zip file, once extracted, have an executable, a copy of [Esptool-ck](https://github.com/igrr/esptool-ck) and the firmware binary file. It executes a little faster since the standalone executable is actually a "wrapped" version of of the contents of the zip file.
 
 ### Note: the firmware that comes with both releases is NOT the use24 firmware yet, as it is still in development.
 
