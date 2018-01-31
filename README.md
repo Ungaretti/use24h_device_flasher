@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/Screenshot.PNG">
 
-You may choose to download the .zip file and extract it in a folder or download the standalone executable. Both are at the "Releases" page of this Github project.
+You may choose to download the .zip file and extract it in a folder or download the standalone executable. Both are at the "release" page of this Github project.
 
 The contents of the zip file, once extracted, have an executable, a copy of [Esptool-ck](https://github.com/igrr/esptool-ck) and the firmware binary file. It executes a little faster since the standalone executable is actually a "wrapped" version of of the contents of the zip file.
 
