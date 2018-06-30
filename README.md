@@ -4,7 +4,9 @@
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/use24hFlasher3.png">
 
-This is a simplified version of version 2.0, but it's more versatile, as it allows programming SONOFF BASIC devices without extra configurations.
+This is a simplified version of version 2.0, but I believe it's more straightforward. It has only one main window and allows programming SONOFF BASIC devices.
+
+---
 
 # use24h_device_flasher-2.0
 
