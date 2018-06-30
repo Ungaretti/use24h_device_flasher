@@ -2,6 +2,10 @@
 
 ### This program flashes the use24h firmware into a use24h device. Quick and easy.
 
+<img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/use24hFlasher3.png">
+
+This is a simplified version of version 2.0, but it's more versatile, as it allows programming SONOFF BASIC devices without extra configurations.
+
 # use24h_device_flasher-2.0
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/Screenshot.PNG">
