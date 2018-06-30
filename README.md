@@ -1,6 +1,8 @@
-# use24h_device_flasher
+# use24h_device_flasher-3.0
 
 ### This program flashes the use24h firmware into a use24h device. Quick and easy.
+
+# use24h_device_flasher-2.0
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/Screenshot.PNG">
 
