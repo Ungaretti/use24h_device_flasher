@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/use24hFlasher3.png">
 
-This is a simplified version of version 2.0, but I believe it's more straightforward. It has only one main window and allows programming SONOFF BASIC devices.
+Version 3.0 is a simplification of version 2.0, but I believe it's more straightforward. It has only one main window and allows programming SONOFF BASIC devices.
 
 ---
 
