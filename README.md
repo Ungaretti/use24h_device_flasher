@@ -12,8 +12,6 @@ This is a simplified version of version 2.0, but I believe it's more straightfor
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/Screenshot.PNG">
 
-You may choose to download the .zip file and extract it in a folder or download the standalone executable. Both are at the "release" page of this Github project.
-
 The contents of the zip file, once extracted, have an executable, a copy of [Esptool-ck](https://github.com/igrr/esptool-ck) and the firmware binary file. 
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/fileview.PNG">
