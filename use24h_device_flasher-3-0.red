@@ -86,7 +86,7 @@ validComPort: ""
 ; ----------- View -----------;
 
 view [
-	title "Use24h Flasher"
+	title "use24h Flasher"
 	
 	text right bold "Serial port:"
 	dropComPort: drop-down 70 "Choose:" data copy com-ports
