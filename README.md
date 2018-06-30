@@ -1,6 +1,6 @@
 # use24h_device_flasher-3.0
 
-### This program flashes the use24h firmware into an NodeMcu device. Quick and easy.
+### This program flashes the use24h firmware into an ESP8266 device. Quick and easy.
 
 <img src="https://github.com/Ungaretti/Gui-for-esptool-ck/blob/master/assets/use24hFlasher3.png">
 
