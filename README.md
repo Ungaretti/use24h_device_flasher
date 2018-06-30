@@ -6,6 +6,8 @@
 
 Version 3.0 is a simplification of version 2.0, but I believe it's more straightforward. It has only one main window and allows programming SONOFF BASIC devices.
 
+The zip package includes three firmware binaries instead of one. The installation and use is very similar to version 3.0.
+
 ---
 
 # use24h_device_flasher-2.0
